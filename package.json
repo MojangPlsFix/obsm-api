@@ -18,7 +18,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/obsmdiplomarbeit/obsm-api#readme",
   "dependencies": {
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
